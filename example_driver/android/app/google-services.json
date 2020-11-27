@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1050170654871",
+    "firebase_url": "https://livetrackingprototype.firebaseio.com",
+    "project_id": "livetrackingprototype",
+    "storage_bucket": "livetrackingprototype.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050170654871:android:a5c48a0de07e59961b69d2",
+        "android_client_info": {
+          "package_name": "com.example.example_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050170654871-11n5t5erfdpdej4t7asj8o512ecm3j9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTcOoxOEiMaeMEOM883gQJNU6lWJ1IWFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050170654871-11n5t5erfdpdej4t7asj8o512ecm3j9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
